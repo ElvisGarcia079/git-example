@@ -1,3 +1,4 @@
 console.log("Mohammad Ali");
 console.log("Mike Tyson")
-console.log("Pikachhu");
+//I just fixed a little typo
+console.log("Pikachu");
